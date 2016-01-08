@@ -2,18 +2,17 @@
     "name" : "i2b2 Webclient Plugins Available for Automated Installation",
     "plugins" : 
         [
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/master/wcCAREconObsTallyDemoHisto.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-CARE-conceptDemographicsHistogram/master/wcCAREconDemoHisto.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-Dem1Set/master/wcDem1Set.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-Dem2Set/master/wcDem2Set.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-exportXLS/master/wcExportXLS.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-timeline/master/wcTimeline.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-WISE-searcher/master/wcWISEsearcher.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-createDatamartScript/master/wcCreateDatamart.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-projectRequest/master/wcProjRequest.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp1-helloWorld/master/wcDevExampHello.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp2-tabsDragDrop/master/wcDevExampTabsDragDrop.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp3-pdo/master/wcDevExampPDO.manifest" },
-            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp5-comm/master/wcDevExampComm.manifest" }
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-CARE-conceptDemographicsHistogram/master/CAREcncptDem.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/master/CAREobsTally.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-Dem1Set/master/Dem1Set.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-Dem2Set/master/Dem2Set.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-exportXLS/master/ExportXLS.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-timeline/master/Timeline.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-WISE-searcher/master/WISEsearcher.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-projectRequest/master/ProjectRequest.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp1-helloWorld/master/ExampHello.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp2-tabs/master/ExampTabs.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp3-pdo/master/ExampPDO.manifest" },
+            { "manifest" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp4-comm/master/ExampComm.manifest" }
         ]
 }

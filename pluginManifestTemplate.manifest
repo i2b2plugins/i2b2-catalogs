@@ -3,7 +3,6 @@
 	"short_name" : "Short Name for the Plugin",
 	"name" : "Plugin Name that appears in Plugin Manager List",
 	"description" : "Description of the plugin. It is visible to users.",
-	"package" : "URL for the location of the zip file containing the plugin's code",
 	"group" : "community",
 	"plugin_version" : "version of the plugin to be installed. This is seen in the plugin gallery",
 	"changes" : "Identify changes made to this version of the plugin",
@@ -12,6 +11,7 @@
 	"authors" : "[ 'Author 1', 'Author 2', 'Author 3' ]",
 	"institutions" : "[ 'Institution 1', 'Institution 2' ]",
 	"keywords" : "[ 'keyword 1', 'keyword 2', 'keyword 3' ]",
+	"package" : "URL for the location of the zip file containing the plugin's code",    
 	"userManual" : "URL for the location of the user documentation for this plugin",
 	"installGuide" : "URL for the location of the installation guide for this plugin",
 	"configuration" : "special configuration information to be displayed to the admin in plugin gallery",
@@ -20,5 +20,5 @@
 
 // COMMENTS: DELETE FROM REAL MANIFEST
 // "group" there are three categories to choose from: community, example, standard
-// "roles" these are the i2b2 roles. Enter the roles required to use the plugin
+// "roles" these are the i2b2 roles. Enter the roles required to use the plugin. If no restrictions then list all the roles. The only ones missing from above are DATA_OBFSC and DATA_AGG
 // "keywords" will be used in future versions for sorting, filtering, or searching for plugins
